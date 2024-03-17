@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">clips</string>
+    <string name="title_activity_main">clips</string>
+    <string name="package_name">com.mobiles.app</string>
+    <string name="custom_url_scheme">com.mobiles.app</string>
+</resources>
